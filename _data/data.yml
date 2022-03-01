@@ -51,12 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My name is Elisavet, I am an Undergraduate Student at Ionian University at the Department of Informatics, I want to broaden my knowledge at computer science and informatics, as well as design, animation and video game creation.
 education:
     - degree: Undergraduate student at the Department of Informatics
       university: Ionian University
@@ -67,9 +62,6 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Roundabout
         link: 
